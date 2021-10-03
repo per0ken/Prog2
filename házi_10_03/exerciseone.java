@@ -81,7 +81,7 @@ public static class exerciseone{
         prim.prime(prim.a);
         prim.prime(prim.b);
 
-        System.out.println("Fibonacci numbers to 50: ");
+        System.out.println("Fibonacci numbers to 10: ");
         int[] fibonacci = new int[10];
         fibonacci[0]=0;
         fibonacci[1]=1;

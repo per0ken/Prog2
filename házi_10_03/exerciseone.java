@@ -1,3 +1,7 @@
+// Nem szép ez a megoldásom mert a metódusokkal gondban voltam először mert C++-hoz hasonlóan main classon kívül akartam őket megírni, 
+// így egy osztályba írt metódusokkal írtam meg ezt a
+// részét a házinak, a 2. részére már rájöttem hogy a main classon belülre kell írni a metódusokat és akkor lefut normálisan minden:)
+
 package házi;
 
 class Szam{
